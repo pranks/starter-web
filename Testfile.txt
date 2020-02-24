@@ -3,3 +3,5 @@ One conference. All things Git.
 Join us for technical talks, hands-on workshops, and breakout discussions about Git—and the people who build the world’s technologies with it.
 
 A fork (unlike branching) is a GitHub to GitHub operation. When you fork a repository, it’s a clone of the entire repository within GitHub with all of its branches. Typically you do a fork if you want to use the current repository as a base to work on a new project or make changes to show differences between the current repository and the new one in large open source projects.
+
+Testing on Merge
