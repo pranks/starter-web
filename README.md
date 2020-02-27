@@ -11,3 +11,6 @@ Editing this for the example of git rebase
 
 ##
 Editing again this for the exampleof git merge
+
+##
+Editing again to show remote rebasing 
